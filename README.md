@@ -1,2 +1,4 @@
 # Binder
 Binder_WRPathORAM
+PathORAM.py是PathORAM程序，程序会记录读写100次模型所需要的时间，将时间保存在PathORAM_times.csv中。
+WRPathORAM.py是WPathORAM+WPathORAM算法，程序会记录读和写100次模型所需要的时间，将时间保存在WRPathORAM_times.csv中。
